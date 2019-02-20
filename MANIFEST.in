@@ -1,0 +1,3 @@
+include pynome/*.py
+include README.md
+include pynome/*
